@@ -1,0 +1,11 @@
+ultralytics
+roboflow
+smtp
+numpy
+opencv-python
+flask
+streamlit
+cvzone
+torch
+torchvision
+requests
