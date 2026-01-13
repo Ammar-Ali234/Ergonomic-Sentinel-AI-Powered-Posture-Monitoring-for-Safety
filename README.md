@@ -92,7 +92,8 @@ We built Ergonomic Sentinel to **honor the dignity of work** by protecting the p
 - **Current Impact:** A functional prototype that proves **proactive, affordable safety is possible**.
 - **Future Vision:** To become the standard for intelligent workplace safety, with features like **multi-camera support, predictive analytics, and mobile integration**.
 
-📖 **See our full project story, challenges, and technical deep dive in our [project documentation](docs/).**
+📖 **Project Setup
+![project documentation](https://github.com/Ammar-Ali234/Ergonomic-Sentinel-AI-Powered-Posture-Monitoring-for-Safety/blob/main/assets/raspberry%20pi%20setup.png)
 
 ## ⚡ Getting Started
 Want to try it yourself? Here's a quick start guide.
