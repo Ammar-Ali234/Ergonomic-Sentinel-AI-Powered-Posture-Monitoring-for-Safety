@@ -13,7 +13,7 @@ Real-time AI system to monitor worker posture and prevent injuries by detecting 
   [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-8GB-red)](https://www.raspberrypi.com/)
   <br>
   [![GitHub Stars](https://img.shields.io/github/stars/Ammar-Ali234/Ergonomic-Sentinel-AI-Powered-Posture-Monitoring-for-Safety?style=social)](https://github.com/Ammar-Ali234/Ergonomic-Sentinel-AI-Powered-Posture-Monitoring-for-Safety)
-  [![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-ff0000?style=flat&logo=youtube)](https://youtu.be/your-demo-link)
+  [![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-ff0000?style=flat&logo=youtube)](https://youtu.be/5KNr5ZC-c8Q)
 
 </div>
 
